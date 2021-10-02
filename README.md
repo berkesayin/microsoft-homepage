@@ -1,7 +1,11 @@
 # microsoft-homesite
+
+### Live Demo 
+https://microsoft-homesite.netlify.app/
+
 I completed microsoft's homepage clone with HTML-CSS.
 
-# Demos
+### Demos
 ![gif](./img/readme/microsoft-home.gif)
 
 </br>
