@@ -3,7 +3,7 @@
 ### Live Demo 
 https://microsoft-homesite.netlify.app/
 
-I completed microsoft's homepage clone with HTML-CSS.
+I designed and developed microsoft's homepage clone with HTML-CSS and Javascript.
 
 ### Demos
 ![gif](./img/readme/microsoft-home.gif)
