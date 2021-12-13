@@ -6,7 +6,7 @@ https://microsoft-homesite.netlify.app/
 I completed microsoft's homepage clone with HTML-CSS.
 
 ### Demos
-![gif](./img/readme/microsoft-home.gif)
+![gif](./img/readme/demo.gif)
 
 </br>
 
