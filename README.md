@@ -1,6 +1,6 @@
 # microsoft-homesite
 
-I completed microsoft's homepage clone with HTML-CSS.
+Microsoft's homepage clone project with HTML and CSS.
 
 ### Live Demo 
 https://microsoft-homesite.netlify.app/
